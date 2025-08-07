@@ -1,2 +1,2 @@
 # TestRepo
-Coursera
+Testing Repository
